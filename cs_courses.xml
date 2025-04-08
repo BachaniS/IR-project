@@ -1,0 +1,4934 @@
+<?xml version='1.0' encoding='utf-8'?>
+<courses>
+  
+  
+  <course>
+    
+    
+    <code>CS 1100</code>
+    
+    
+    <name>Computer Science and Its Applications.</name>
+    
+    
+    <description>Computer Science and Its Applications provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 1101</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 1101</code>
+    
+    
+    <name>Lab for CS 1100.</name>
+    
+    
+    <description>Lab for CS 1100 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 1100</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 1200</code>
+    
+    
+    <name>First Year Seminar.</name>
+    
+    
+    <description>First Year Seminar provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 1210</code>
+    
+    
+    <name>Professional Development for Khoury Co-op.</name>
+    
+    
+    <description>Professional Development for Khoury Co-op provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>DS 2500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 1800</code>
+    
+    
+    <name>Discrete Structures.</name>
+    
+    
+    <description>Discrete Structures provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 1802</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 1802</code>
+    
+    
+    <name>Seminar for CS 1800.</name>
+    
+    
+    <description>Seminar for CS 1800 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 1800</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 1990</code>
+    
+    
+    <name>Elective.</name>
+    
+    
+    <description>Elective provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2500</code>
+    
+    
+    <name>Fundamentals of Computer Science 1.</name>
+    
+    
+    <description>Fundamentals of Computer Science 1 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 2501</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2501</code>
+    
+    
+    <name>Lab for CS 2500.</name>
+    
+    
+    <description>Lab for CS 2500 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 2500</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2510</code>
+    
+    
+    <name>Fundamentals of Computer Science 2.</name>
+    
+    
+    <description>Fundamentals of Computer Science 2 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 2511</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2511</code>
+    
+    
+    <name>Lab for CS 2510.</name>
+    
+    
+    <description>Lab for CS 2510 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 2510</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2800</code>
+    
+    
+    <name>Logic and Computation.</name>
+    
+    
+    <description>Logic and Computation provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 1800</prerequisite>
+      
+      
+      <prerequisite>MATH 1365</prerequisite>
+      
+      
+      <prerequisite>CS 2500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2810</code>
+    
+    
+    <name>Mathematics of Data Models.</name>
+    
+    
+    <description>Mathematics of Data Models provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 1800</prerequisite>
+      
+      
+      <prerequisite>CS 2500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>none</code>
+    
+    
+    <name>none</name>
+    
+    
+    <description>none provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>none</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2990</code>
+    
+    
+    <name>Elective.</name>
+    
+    
+    <description>Elective provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2991</code>
+    
+    
+    <name>Research in Computer Science.</name>
+    
+    
+    <description>Research in Computer Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 2992</code>
+    
+    
+    <name>Research.</name>
+    
+    
+    <description>Research provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3000</code>
+    
+    
+    <name>Algorithms and Data.</name>
+    
+    
+    <description>Algorithms and Data provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>DS 2500</prerequisite>
+      
+      
+      <prerequisite>CS 1800</prerequisite>
+      
+      
+      <prerequisite>EECE 2160</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 3001</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3001</code>
+    
+    
+    <name>Recitation for CS 3000.</name>
+    
+    
+    <description>Recitation for CS 3000 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 3000</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3200</code>
+    
+    
+    <name>Introduction to Databases.</name>
+    
+    
+    <description>Introduction to Databases provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: relational databases, SQL, NoSQL, indexing, transactions, schema design.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2500</prerequisite>
+      
+      
+      <prerequisite>DS 2000</prerequisite>
+      
+      
+      <prerequisite>EECE 2560</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3500</code>
+    
+    
+    <name>Object-Oriented Design.</name>
+    
+    
+    <description>Object-Oriented Design provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>EECE 2560</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 3501</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3501</code>
+    
+    
+    <name>Lab for CS 3500.</name>
+    
+    
+    <description>Lab for CS 3500 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 3500</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3520</code>
+    
+    
+    <name>Programming in C++.</name>
+    
+    
+    <description>Programming in C++ provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>DS 2500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3540</code>
+    
+    
+    <name>Game Programming.</name>
+    
+    
+    <description>Game Programming provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2500</prerequisite>
+      
+      
+      <prerequisite>ARTG 2260</prerequisite>
+      
+      
+      <prerequisite>ARTG 2262</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3620</code>
+    
+    
+    <name>Building Extensible Systems.</name>
+    
+    
+    <description>Building Extensible Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>ENGW 1111</prerequisite>
+      
+      
+      <prerequisite>ENGW 1102</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3650</code>
+    
+    
+    <name>Computer Systems.</name>
+    
+    
+    <description>Computer Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>EECE 2560</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3700</code>
+    
+    
+    <name>Networks and Distributed Systems.</name>
+    
+    
+    <description>Networks and Distributed Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: routing, IP addressing, DNS, TCP/UDP, firewalls, NAT, protocols.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3800</code>
+    
+    
+    <name>Theory of Computation.</name>
+    
+    
+    <description>Theory of Computation provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>EECE 2160</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3950</code>
+    
+    
+    <name>Introduction to Computer Science Research.</name>
+    
+    
+    <description>Introduction to Computer Science Research provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 3990</code>
+    
+    
+    <name>Elective.</name>
+    
+    
+    <description>Elective provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4050</code>
+    
+    
+    <name>Artificial Intelligence and Society.</name>
+    
+    
+    <description>Artificial Intelligence and Society provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: machine learning, neural networks, AI planning, knowledge representation, reasoning, natural language processing.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4097</code>
+    
+    
+    <name>Mixed Reality.</name>
+    
+    
+    <description>Mixed Reality provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3540</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4100</code>
+    
+    
+    <name>Artificial Intelligence.</name>
+    
+    
+    <description>Artificial Intelligence provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: machine learning, neural networks, AI planning, knowledge representation, reasoning, natural language processing.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>DS 3500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4120</code>
+    
+    
+    <name>Natural Language Processing.</name>
+    
+    
+    <description>Natural Language Processing provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>DS 3500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4150</code>
+    
+    
+    <name>Game Artificial Intelligence.</name>
+    
+    
+    <description>Game Artificial Intelligence provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: machine learning, neural networks, AI planning, knowledge representation, reasoning, natural language processing.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>CS 3520</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4180</code>
+    
+    
+    <name>Reinforcement Learning.</name>
+    
+    
+    <description>Reinforcement Learning provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3000</prerequisite>
+      
+      
+      <prerequisite>ECON 2350</prerequisite>
+      
+      
+      <prerequisite>ENVR 2500</prerequisite>
+      
+      
+      <prerequisite>MATH 3081</prerequisite>
+      
+      
+      <prerequisite>PSYC 2320</prerequisite>
+      
+      
+      <prerequisite>CS 2810</prerequisite>
+      
+      
+      <prerequisite>MATH 2331</prerequisite>
+      
+      
+      <prerequisite>CS 2810</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4300</code>
+    
+    
+    <name>Computer Graphics.</name>
+    
+    
+    <description>Computer Graphics provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>EECE 2560</prerequisite>
+      
+      
+      <prerequisite>MATH 1260</prerequisite>
+      
+      
+      <prerequisite>MATH 2331</prerequisite>
+      
+      
+      <prerequisite>MATH 2341</prerequisite>
+      
+      
+      <prerequisite>CS 2810</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4360</code>
+    
+    
+    <name>Non-Interactive Computer Graphics.</name>
+    
+    
+    <description>Non-Interactive Computer Graphics provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2810</prerequisite>
+      
+      
+      <prerequisite>MATH 2331</prerequisite>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4400</code>
+    
+    
+    <name>Programming Languages.</name>
+    
+    
+    <description>Programming Languages provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>CS 3000</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4410</code>
+    
+    
+    <name>Compilers.</name>
+    
+    
+    <description>Compilers provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: lexical analysis, parsing, code generation, syntax trees, intermediate representation.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 4400</prerequisite>
+      
+      
+      <prerequisite>CS 5400</prerequisite>
+      
+      
+      <prerequisite>CS 7400</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4500</code>
+    
+    
+    <name>Software Development.</name>
+    
+    
+    <description>Software Development provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>ENGW 1111</prerequisite>
+      
+      
+      <prerequisite>ENGW 1102</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4520</code>
+    
+    
+    <name>Mobile Application Development.</name>
+    
+    
+    <description>Mobile Application Development provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4530</code>
+    
+    
+    <name>Fundamentals of Software Engineering.</name>
+    
+    
+    <description>Fundamentals of Software Engineering provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4535</code>
+    
+    
+    <name>Professional Practicum Capstone.</name>
+    
+    
+    <description>Professional Practicum Capstone provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4550</code>
+    
+    
+    <name>Web Development.</name>
+    
+    
+    <description>Web Development provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: HTML5, CSS3, JavaScript, AJAX, REST APIs, SQL, NoSQL, ASP.NET, XSLT, XML, JSON, RSS, C#.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>DS 3500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4610</code>
+    
+    
+    <name>Robotic Science and Systems.</name>
+    
+    
+    <description>Robotic Science and Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4700</code>
+    
+    
+    <name>Network Fundamentals.</name>
+    
+    
+    <description>Network Fundamentals provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3650</prerequisite>
+      
+      
+      <prerequisite>CS 5600</prerequisite>
+      
+      
+      <prerequisite>CS 5600</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4730</code>
+    
+    
+    <name>Distributed Systems.</name>
+    
+    
+    <description>Distributed Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3650</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4805</code>
+    
+    
+    <name>Fundamentals of Complexity Theory.</name>
+    
+    
+    <description>Fundamentals of Complexity Theory provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3800</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4810</code>
+    
+    
+    <name>Advanced Algorithms.</name>
+    
+    
+    <description>Advanced Algorithms provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3000</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4820</code>
+    
+    
+    <name>Computer-Aided Reasoning.</name>
+    
+    
+    <description>Computer-Aided Reasoning provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2800</prerequisite>
+      
+      
+      <prerequisite>CS 3000</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4830</code>
+    
+    
+    <name>System Specification, Verification, and Synthesis.</name>
+    
+    
+    <description>System Specification, Verification, and Synthesis provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3000</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4850</code>
+    
+    
+    <name>Building Game Engines.</name>
+    
+    
+    <description>Building Game Engines provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3520</prerequisite>
+      
+      
+      <prerequisite>CS 3540</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4950</code>
+    
+    
+    <name>Computer Science Research Seminar.</name>
+    
+    
+    <description>Computer Science Research Seminar provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3950</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4955</code>
+    
+    
+    <name>Computer Science Teaching Seminar.</name>
+    
+    
+    <description>Computer Science Teaching Seminar provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 2500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4970</code>
+    
+    
+    <name>Junior/Senior Honors Project 1.</name>
+    
+    
+    <description>Junior/Senior Honors Project 1 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4971</code>
+    
+    
+    <name>Junior/Senior Honors Project 2.</name>
+    
+    
+    <description>Junior/Senior Honors Project 2 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 4970</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4973</code>
+    
+    
+    <name>Topics in Computer Science.</name>
+    
+    
+    <description>Topics in Computer Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3000</prerequisite>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>DS 3500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4990</code>
+    
+    
+    <name>Elective.</name>
+    
+    
+    <description>Elective provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>none</code>
+    
+    
+    <name>none</name>
+    
+    
+    <description>none provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>none</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>CS 3800</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4992</code>
+    
+    
+    <name>Directed Study.</name>
+    
+    
+    <description>Directed Study provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>CS 3800</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 4998</code>
+    
+    
+    <name>Research.</name>
+    
+    
+    <description>Research provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5001</code>
+    
+    
+    <name>Intensive Foundations of Computer Science.</name>
+    
+    
+    <description>Intensive Foundations of Computer Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 5003</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5002</code>
+    
+    
+    <name>Discrete Structures.</name>
+    
+    
+    <description>Discrete Structures provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5003</code>
+    
+    
+    <name>Recitation for CS 5001.</name>
+    
+    
+    <description>Recitation for CS 5001 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 5001</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5004</code>
+    
+    
+    <name>Object-Oriented Design.</name>
+    
+    
+    <description>Object-Oriented Design provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5001</prerequisite>
+      
+      
+      <prerequisite>CS 5001</prerequisite>
+      
+      
+      <prerequisite>CS 5002</prerequisite>
+      
+      
+      <prerequisite>CS 5002</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 5005</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5005</code>
+    
+    
+    <name>Recitation for CS 5004.</name>
+    
+    
+    <description>Recitation for CS 5004 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 5004</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5008</code>
+    
+    
+    <name>Data Structures, Algorithms, and Their Applications within Computer Systems.</name>
+    
+    
+    <description>Data Structures, Algorithms, and Their Applications within Computer Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: arrays, linked lists, stacks, queues, trees, graphs, hash tables.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5001</prerequisite>
+      
+      
+      <prerequisite>CS 5001</prerequisite>
+      
+      
+      <prerequisite>CS 5002</prerequisite>
+      
+      
+      <prerequisite>CS 5002</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 5009</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5009</code>
+    
+    
+    <name>Recitation for CS 5008.</name>
+    
+    
+    <description>Recitation for CS 5008 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 5008</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5010</code>
+    
+    
+    <name>Programming Design Paradigm.</name>
+    
+    
+    <description>Programming Design Paradigm provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 5011</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5011</code>
+    
+    
+    <name>Recitation for CS 5010.</name>
+    
+    
+    <description>Recitation for CS 5010 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>
+      
+      
+      <corequisite>CS 5010</corequisite>
+      
+    
+    </corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5047</code>
+    
+    
+    <name>Exploring AI Trends and Tools.</name>
+    
+    
+    <description>Exploring AI Trends and Tools provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5097</code>
+    
+    
+    <name>Mixed Reality.</name>
+    
+    
+    <description>Mixed Reality provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5100</code>
+    
+    
+    <name>Foundations of Artificial Intelligence.</name>
+    
+    
+    <description>Foundations of Artificial Intelligence provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: machine learning, neural networks, AI planning, knowledge representation, reasoning, natural language processing.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5150</code>
+    
+    
+    <name>Game Artificial Intelligence.</name>
+    
+    
+    <description>Game Artificial Intelligence provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: machine learning, neural networks, AI planning, knowledge representation, reasoning, natural language processing.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5170</code>
+    
+    
+    <name>Artificial Intelligence for Human-Computer Interaction.</name>
+    
+    
+    <description>Artificial Intelligence for Human-Computer Interaction provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: machine learning, neural networks, AI planning, knowledge representation, reasoning, natural language processing.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5100</prerequisite>
+      
+      
+      <prerequisite>CS 5800</prerequisite>
+      
+      
+      <prerequisite>CS 6140</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5180</code>
+    
+    
+    <name>Reinforcement Learning and Sequential Decision Making.</name>
+    
+    
+    <description>Reinforcement Learning and Sequential Decision Making provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5200</code>
+    
+    
+    <name>Database Management Systems.</name>
+    
+    
+    <description>Database Management Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5310</code>
+    
+    
+    <name>Computer Graphics.</name>
+    
+    
+    <description>Computer Graphics provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>MATH 2331</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5330</code>
+    
+    
+    <name>Pattern Recognition and Computer Vision.</name>
+    
+    
+    <description>Pattern Recognition and Computer Vision provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>MATH 2331</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5335</code>
+    
+    
+    <name>Robotic Science and Systems.</name>
+    
+    
+    <description>Robotic Science and Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5340</code>
+    
+    
+    <name>Computer/Human Interaction.</name>
+    
+    
+    <description>Computer/Human Interaction provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5350</code>
+    
+    
+    <name>Applied Geometric Representation and Computation.</name>
+    
+    
+    <description>Applied Geometric Representation and Computation provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5360</code>
+    
+    
+    <name>Noninteractive Computer Graphics.</name>
+    
+    
+    <description>Noninteractive Computer Graphics provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5400</code>
+    
+    
+    <name>Principles of Programming Language.</name>
+    
+    
+    <description>Principles of Programming Language provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5010</prerequisite>
+      
+      
+      <prerequisite>CS 5004</prerequisite>
+      
+      
+      <prerequisite>CS 5010</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5500</code>
+    
+    
+    <name>Foundations of Software Engineering.</name>
+    
+    
+    <description>Foundations of Software Engineering provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5010</prerequisite>
+      
+      
+      <prerequisite>CS 5004</prerequisite>
+      
+      
+      <prerequisite>CS 5010</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5520</code>
+    
+    
+    <name>Mobile Application Development.</name>
+    
+    
+    <description>Mobile Application Development provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5540</code>
+    
+    
+    <name>Game Programming.</name>
+    
+    
+    <description>Game Programming provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5004</prerequisite>
+      
+      
+      <prerequisite>CS 5004</prerequisite>
+      
+      
+      <prerequisite>CS 2500</prerequisite>
+      
+      
+      <prerequisite>CS 2510</prerequisite>
+      
+      
+      <prerequisite>CS 3500</prerequisite>
+      
+      
+      <prerequisite>CS 5010</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5600</code>
+    
+    
+    <name>Computer Systems.</name>
+    
+    
+    <description>Computer Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5610</code>
+    
+    
+    <name>Web Development.</name>
+    
+    
+    <description>Web Development provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: HTML5, CSS3, JavaScript, AJAX, REST APIs, SQL, NoSQL, ASP.NET, XSLT, XML, JSON, RSS, C#.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5700</code>
+    
+    
+    <name>Fundamentals of Computer Networking.</name>
+    
+    
+    <description>Fundamentals of Computer Networking provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5800</code>
+    
+    
+    <name>Algorithms.</name>
+    
+    
+    <description>Algorithms provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5850</code>
+    
+    
+    <name>Building Game Engines.</name>
+    
+    
+    <description>Building Game Engines provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5933</code>
+    
+    
+    <name>Advanced Computer Science Topics for Teachers.</name>
+    
+    
+    <description>Advanced Computer Science Topics for Teachers provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5934</code>
+    
+    
+    <name>Introduction to Inclusive Computer Science Teaching.</name>
+    
+    
+    <description>Introduction to Inclusive Computer Science Teaching provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>none</code>
+    
+    
+    <name>none</name>
+    
+    
+    <description>none provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>none</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5964</code>
+    
+    
+    <name>Projects for Professionals.</name>
+    
+    
+    <description>Projects for Professionals provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5965</code>
+    
+    
+    <name>Engaging with Industry Partners for Rising Professionals.</name>
+    
+    
+    <description>Engaging with Industry Partners for Rising Professionals provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 5976</code>
+    
+    
+    <name>Directed Study.</name>
+    
+    
+    <description>Directed Study provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6120</code>
+    
+    
+    <name>Natural Language Processing.</name>
+    
+    
+    <description>Natural Language Processing provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6130</code>
+    
+    
+    <name>Affective Computing.</name>
+    
+    
+    <description>Affective Computing provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6140</code>
+    
+    
+    <name>Machine Learning.</name>
+    
+    
+    <description>Machine Learning provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: regression, classification, clustering, SVM, decision trees, model evaluation.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5800</prerequisite>
+      
+      
+      <prerequisite>CS 7800</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6200</code>
+    
+    
+    <name>Information Retrieval.</name>
+    
+    
+    <description>Information Retrieval provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6220</code>
+    
+    
+    <name>Data Mining Techniques.</name>
+    
+    
+    <description>Data Mining Techniques provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5800</prerequisite>
+      
+      
+      <prerequisite>CS 7800</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6240</code>
+    
+    
+    <name>Large-Scale Parallel Data Processing.</name>
+    
+    
+    <description>Large-Scale Parallel Data Processing provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5800</prerequisite>
+      
+      
+      <prerequisite>CS 7800</prerequisite>
+      
+      
+      <prerequisite>EECE 7205</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6350</code>
+    
+    
+    <name>Empirical Research Methods.</name>
+    
+    
+    <description>Empirical Research Methods provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6410</code>
+    
+    
+    <name>Compilers.</name>
+    
+    
+    <description>Compilers provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: lexical analysis, parsing, code generation, syntax trees, intermediate representation.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5400</prerequisite>
+      
+      
+      <prerequisite>CS 7400</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6510</code>
+    
+    
+    <name>Advanced Software Development.</name>
+    
+    
+    <description>Advanced Software Development provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5004</prerequisite>
+      
+      
+      <prerequisite>CS 5010</prerequisite>
+      
+      
+      <prerequisite>CS 5500</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6620</code>
+    
+    
+    <name>Fundamentals of Cloud Computing.</name>
+    
+    
+    <description>Fundamentals of Cloud Computing provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6640</code>
+    
+    
+    <name>Operating Systems Implementation.</name>
+    
+    
+    <description>Operating Systems Implementation provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: scheduling, memory management, file systems, threads, processes, synchronization.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 3650</prerequisite>
+      
+      
+      <prerequisite>CS 5600</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6650</code>
+    
+    
+    <name>Building Scalable Distributed Systems.</name>
+    
+    
+    <description>Building Scalable Distributed Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6760</code>
+    
+    
+    <name>Privacy, Security, and Usability.</name>
+    
+    
+    <description>Privacy, Security, and Usability provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6954</code>
+    
+    
+    <name>Co-op Work Experience - Half-Time.</name>
+    
+    
+    <description>Co-op Work Experience - Half-Time provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6955</code>
+    
+    
+    <name>Co-op Work Experience Abroad - Half-Time.</name>
+    
+    
+    <description>Co-op Work Experience Abroad - Half-Time provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6962</code>
+    
+    
+    <name>Elective.</name>
+    
+    
+    <description>Elective provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6964</code>
+    
+    
+    <name>Co-op Work Experience.</name>
+    
+    
+    <description>Co-op Work Experience provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6965</code>
+    
+    
+    <name>Co-op Work Experience Abroad.</name>
+    
+    
+    <description>Co-op Work Experience Abroad provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 6983</code>
+    
+    
+    <name>Topics in Computer Science.</name>
+    
+    
+    <description>Topics in Computer Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7140</code>
+    
+    
+    <name>Advanced Machine Learning.</name>
+    
+    
+    <description>Advanced Machine Learning provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: regression, classification, clustering, SVM, decision trees, model evaluation.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 6140</prerequisite>
+      
+      
+      <prerequisite>EECE 7204</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7150</code>
+    
+    
+    <name>Deep Learning.</name>
+    
+    
+    <description>Deep Learning provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 6140</prerequisite>
+      
+      
+      <prerequisite>DS 5220</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7170</code>
+    
+    
+    <name>Seminar in Artificial Intelligence.</name>
+    
+    
+    <description>Seminar in Artificial Intelligence provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: machine learning, neural networks, AI planning, knowledge representation, reasoning, natural language processing.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5100</prerequisite>
+      
+      
+      <prerequisite>CS 5100</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7180</code>
+    
+    
+    <name>Special Topics in Artificial Intelligence.</name>
+    
+    
+    <description>Special Topics in Artificial Intelligence provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: machine learning, neural networks, AI planning, knowledge representation, reasoning, natural language processing.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7200</code>
+    
+    
+    <name>Statistical Methods for Computer Science.</name>
+    
+    
+    <description>Statistical Methods for Computer Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7240</code>
+    
+    
+    <name>Principles of Scalable Data Management: Theory, Algorithms, and Database Systems.</name>
+    
+    
+    <description>Principles of Scalable Data Management: Theory, Algorithms, and Database Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7250</code>
+    
+    
+    <name>Information Visualization: Theory and Applications.</name>
+    
+    
+    <description>Information Visualization: Theory and Applications provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7260</code>
+    
+    
+    <name>Visualization for Network Science.</name>
+    
+    
+    <description>Visualization for Network Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7270</code>
+    
+    
+    <name>Seminar in Database Systems.</name>
+    
+    
+    <description>Seminar in Database Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5200</prerequisite>
+      
+      
+      <prerequisite>CS 5200</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7280</code>
+    
+    
+    <name>Special Topics in Database Management.</name>
+    
+    
+    <description>Special Topics in Database Management provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7290</code>
+    
+    
+    <name>Special Topics in Data Science.</name>
+    
+    
+    <description>Special Topics in Data Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7295</code>
+    
+    
+    <name>Special Topics in Data Visualization.</name>
+    
+    
+    <description>Special Topics in Data Visualization provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7300</code>
+    
+    
+    <name>Empirical Research Methods for Human Computer Interaction.</name>
+    
+    
+    <description>Empirical Research Methods for Human Computer Interaction provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7332</code>
+    
+    
+    <name>Machine Learning with Graphs.</name>
+    
+    
+    <description>Machine Learning with Graphs provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: regression, classification, clustering, SVM, decision trees, model evaluation.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>PHYS 5116</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7340</code>
+    
+    
+    <name>Theory and Methods in Human Computer Interaction.</name>
+    
+    
+    <description>Theory and Methods in Human Computer Interaction provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7375</code>
+    
+    
+    <name>Seminar in Human-Computer Interaction.</name>
+    
+    
+    <description>Seminar in Human-Computer Interaction provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7380</code>
+    
+    
+    <name>Special Topics in Graphics/Image Processing.</name>
+    
+    
+    <description>Special Topics in Graphics/Image Processing provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7390</code>
+    
+    
+    <name>Special Topics in Human-Centered Computing.</name>
+    
+    
+    <description>Special Topics in Human-Centered Computing provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7400</code>
+    
+    
+    <name>Intensive Principles of Programming Languages.</name>
+    
+    
+    <description>Intensive Principles of Programming Languages provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7430</code>
+    
+    
+    <name>Formal Specification, Verification, and Synthesis.</name>
+    
+    
+    <description>Formal Specification, Verification, and Synthesis provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7470</code>
+    
+    
+    <name>Seminar in Programming Languages.</name>
+    
+    
+    <description>Seminar in Programming Languages provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5400</prerequisite>
+      
+      
+      <prerequisite>CS 5400</prerequisite>
+      
+      
+      <prerequisite>CS 7400</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7480</code>
+    
+    
+    <name>Special Topics in Programming Language.</name>
+    
+    
+    <description>Special Topics in Programming Language provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: Python, Java, C++, object-oriented programming, functional programming, recursion.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7485</code>
+    
+    
+    <name>Special Topics in Formal Methods.</name>
+    
+    
+    <description>Special Topics in Formal Methods provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7575</code>
+    
+    
+    <name>Seminar in Software Engineering.</name>
+    
+    
+    <description>Seminar in Software Engineering provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7580</code>
+    
+    
+    <name>Special Topics in Software Engineering.</name>
+    
+    
+    <description>Special Topics in Software Engineering provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7600</code>
+    
+    
+    <name>Intensive Computer Systems.</name>
+    
+    
+    <description>Intensive Computer Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7610</code>
+    
+    
+    <name>Foundations of Distributed Systems.</name>
+    
+    
+    <description>Foundations of Distributed Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7670</code>
+    
+    
+    <name>Seminar in Computer Systems.</name>
+    
+    
+    <description>Seminar in Computer Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5600</prerequisite>
+      
+      
+      <prerequisite>CS 5600</prerequisite>
+      
+      
+      <prerequisite>CS 7600</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7675</code>
+    
+    
+    <name>Master's Research.</name>
+    
+    
+    <description>Master's Research provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7680</code>
+    
+    
+    <name>Special Topics in Computer Systems.</name>
+    
+    
+    <description>Special Topics in Computer Systems provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7770</code>
+    
+    
+    <name>Seminar in Computer Networks.</name>
+    
+    
+    <description>Seminar in Computer Networks provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. Topics include: routing, IP addressing, DNS, TCP/UDP, firewalls, NAT, protocols.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5700</prerequisite>
+      
+      
+      <prerequisite>CS 5700</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7775</code>
+    
+    
+    <name>Seminar in Computer Security.</name>
+    
+    
+    <description>Seminar in Computer Security provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7800</code>
+    
+    
+    <name>Advanced Algorithms.</name>
+    
+    
+    <description>Advanced Algorithms provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7805</code>
+    
+    
+    <name>Complexity Theory.</name>
+    
+    
+    <description>Complexity Theory provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 7800</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7810</code>
+    
+    
+    <name>Foundations of Cryptography.</name>
+    
+    
+    <description>Foundations of Cryptography provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7840</code>
+    
+    
+    <name>Foundations and Applications of Information Theory.</name>
+    
+    
+    <description>Foundations and Applications of Information Theory provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7870</code>
+    
+    
+    <name>Seminar in Theoretical Computer Science.</name>
+    
+    
+    <description>Seminar in Theoretical Computer Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5800</prerequisite>
+      
+      
+      <prerequisite>CS 5800</prerequisite>
+      
+      
+      <prerequisite>CS 7800</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7880</code>
+    
+    
+    <name>Special Topics in Theoretical Computer Science.</name>
+    
+    
+    <description>Special Topics in Theoretical Computer Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7930</code>
+    
+    
+    <name>Effective Scientific Writing in Computer Science.</name>
+    
+    
+    <description>Effective Scientific Writing in Computer Science provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7962</code>
+    
+    
+    <name>Elective.</name>
+    
+    
+    <description>Elective provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7976</code>
+    
+    
+    <name>Directed Study.</name>
+    
+    
+    <description>Directed Study provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>2</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7980</code>
+    
+    
+    <name>Research Capstone.</name>
+    
+    
+    <description>Research Capstone provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 5004</prerequisite>
+      
+      
+      <prerequisite>CS 5010</prerequisite>
+      
+      
+      <prerequisite>CS 5800</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7986</code>
+    
+    
+    <name>Research.</name>
+    
+    
+    <description>Research provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7990</code>
+    
+    
+    <name>Thesis.</name>
+    
+    
+    <description>Thesis provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 7996</code>
+    
+    
+    <name>Thesis Continuation - Half-Time.</name>
+    
+    
+    <description>Thesis Continuation - Half-Time provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 7990</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 8674</code>
+    
+    
+    <name>Master’s Project.</name>
+    
+    
+    <description>Master’s Project provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>4</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 8948</code>
+    
+    
+    <name>Research Work Experience - Half-Time.</name>
+    
+    
+    <description>Research Work Experience - Half-Time provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 8949</code>
+    
+    
+    <name>Research Work Experience.</name>
+    
+    
+    <description>Research Work Experience provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 8982</code>
+    
+    
+    <name>Readings.</name>
+    
+    
+    <description>Readings provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>1</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 8986</code>
+    
+    
+    <name>Research.</name>
+    
+    
+    <description>Research provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 9000</code>
+    
+    
+    <name>PhD Candidacy Achieved.</name>
+    
+    
+    <description>PhD Candidacy Achieved provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>none</prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 9990</code>
+    
+    
+    <name>Dissertation Term 1.</name>
+    
+    
+    <description>Dissertation Term 1 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 9000</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 9991</code>
+    
+    
+    <name>Dissertation Term 2.</name>
+    
+    
+    <description>Dissertation Term 2 provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 9990</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+  
+  <course>
+    
+    
+    <code>CS 9996</code>
+    
+    
+    <name>Dissertation Continuation.</name>
+    
+    
+    <description>Dissertation Continuation provides students with a comprehensive understanding of key concepts and practical applications within the field. This course emphasizes both theoretical foundations and hands-on experience, encouraging students to solve real-world problems, develop critical thinking, and build technical proficiency. Ideal for learners aiming to deepen their knowledge and prepare for advanced academic or professional opportunities. This course explores key concepts and hands-on techniques relevant to the subject.</description>
+    
+    
+    <hours>0</hours>
+    
+    
+    <prerequisites>
+      
+      
+      <prerequisite>CS 9991</prerequisite>
+      
+    
+    </prerequisites>
+    
+    
+    <corequisites>none</corequisites>
+    
+  
+  </course>
+  
+
+</courses>
